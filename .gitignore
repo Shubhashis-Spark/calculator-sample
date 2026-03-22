@@ -1,0 +1,26 @@
+# Test files and directories
+tests/
+
+# Coverage reports and data
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Pytest cache
+.pytest_cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
